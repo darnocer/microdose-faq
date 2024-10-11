@@ -8,6 +8,14 @@ The goal of this project is to share accurate information about microdosing, spe
 
 > _MICRODOSING IS NOT FOR EVERYONE. This guide is purely for informational and educational purposes in order to support the safe and respectful use of sacred natural medicine for healing and transformation. We are not promoting mindless consumption of these powerful substances. Always do your own research and consult with a medical professional, especially if you are taking antidepressants, and especially if you are taking SSRIs. We are not doctors, and any information we share is not intended to treat, diagnose, or cure any physical or mental illness. If you choose to microdose or consume any dose of any psychedelic substance, you choose to do so as a personal choice of your own free will, not because of the recommendation of any outside parties, including us. Please take full ownership and responsibility for your own choices, especially those impacting your mental and physical health <3_
 
+## ✅ ToDo
+
+- [ ] Link Thomas Anderson studies in `/benefits` and `/negative`
+- [ ] Link studies in `/science`
+- [ ] Add caution about amnita muscaria / products being marketed as 'microdoses'
+- [ ] Elaborate on dosages
+- [ ] CO facilitator licensure
+
 ## 💻 Development
 
 ### Built With
