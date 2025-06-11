@@ -27,7 +27,7 @@ const config: DocsThemeConfig = {
       titleTemplate: "Getting Started | Microdose Wiki",
     };
   },
-  darkMode: false,
+  darkMode: true,
   head: <Metadata />,
   primaryHue: 288,
   primarySaturation: 87,
