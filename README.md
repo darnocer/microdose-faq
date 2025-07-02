@@ -15,7 +15,7 @@ The goal of this project is to share accurate information about microdosing, spe
 
 <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
-This site is using [Nextra](https://nextra.site/), a documentation site framework using Next.js and MDX
+This site is using [Nextra](https://nextra.site/), a documentation site framework using Next.js and MDX. It is deployed on [Vercel](https://vercel.com). 
 
 ### Getting Started
 
@@ -48,6 +48,19 @@ Example:
   "about": "About Us"
 }
 ```
+
+#### Making Content Changes from Github
+You can make content changes directly from Github by editing files in `/pages`. The name of the `.mdx` file corresponds to the slug of the page (eg. `/psilocybin`). Obviously without using a development environment, you cannot preview the website before deploying the changes. 
+
+1. Locate the correct `.mdx` file in the repository from the `/pages` folder
+2. Make the changes with _markdown_ formatting - you can preview the markdown by switching from `edit` view to `preview`
+3. Click the green "Commit Changes" button
+4. Add details about what was changed in the description
+5. Leave "Commit directly to the `main` branch" selected > Click "Commit Changes"
+
+This will update the changes directly in the production environment. Allow a minute or so to see changes on the main site. 
+
+You can create new `.mdx` files to create new pages. Be sure to update the **Table of Contents** from `/pages/_meta.json`. 
 
 ### Configuration
 
